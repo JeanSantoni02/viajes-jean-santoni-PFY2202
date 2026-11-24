@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "ciudad": "Cusco",
+    "pais": "Perú",
+    "continente": "Sudamérica",
+    "emoji": "🏔️",
+    "descripcion": "Antigua capital del Imperio Inca, puerta de entrada a Machu Picchu y al Valle Sagrado.",
+    "clima": "Templado de montaña",
+    "moneda": "Sol peruano (PEN)",
+    "actividades": ["Visitar Machu Picchu", "Recorrer el Valle Sagrado", "Caminata a la Montaña de Colores", "Tour gastronómico en San Pedro"]
+  },
+  {
+    "id": 2,
+    "ciudad": "Cancún",
+    "pais": "México",
+    "continente": "Norteamérica",
+    "emoji": "🏖️",
+    "descripcion": "Playas de arena blanca y mar turquesa en el Caribe mexicano, con cenotes y ruinas mayas cercanas.",
+    "clima": "Tropical",
+    "moneda": "Peso mexicano (MXN)",
+    "actividades": ["Snorkel en Isla Mujeres", "Nadar en cenotes", "Visitar Chichén Itzá", "Parque Xcaret"]
+  },
+  {
+    "id": 3,
+    "ciudad": "Buenos Aires",
+    "pais": "Argentina",
+    "continente": "Sudamérica",
+    "emoji": "💃",
+    "descripcion": "Ciudad cosmopolita famosa por el tango, su arquitectura europea y su gastronomía.",
+    "clima": "Templado húmedo",
+    "moneda": "Peso argentino (ARS)",
+    "actividades": ["Show de tango en San Telmo", "Caminar por Caminito (La Boca)", "Parrilla en Palermo", "Visitar el Teatro Colón"]
+  },
+  {
+    "id": 4,
+    "ciudad": "Madrid",
+    "pais": "España",
+    "continente": "Europa",
+    "emoji": "🏛️",
+    "descripcion": "Capital española llena de museos de arte, plazas históricas y vida nocturna.",
+    "clima": "Mediterráneo continental",
+    "moneda": "Euro (EUR)",
+    "actividades": ["Museo del Prado", "Parque del Retiro", "Tapas en La Latina", "Palacio Real"]
+  },
+  {
+    "id": 5,
+    "ciudad": "Río de Janeiro",
+    "pais": "Brasil",
+    "continente": "Sudamérica",
+    "emoji": "🌴",
+    "descripcion": "La Ciudad Maravillosa: playas icónicas, el Cristo Redentor y el Pan de Azúcar.",
+    "clima": "Tropical atlántico",
+    "moneda": "Real brasileño (BRL)",
+    "actividades": ["Subir al Cristo Redentor", "Teleférico al Pan de Azúcar", "Playa de Copacabana", "Escalera Selarón"]
+  },
+  {
+    "id": 6,
+    "ciudad": "San Pedro de Atacama",
+    "pais": "Chile",
+    "continente": "Sudamérica",
+    "emoji": "🌵",
+    "descripcion": "Oasis en el desierto más árido del mundo, con lagunas altiplánicas, géiseres y cielos estrellados.",
+    "clima": "Desértico",
+    "moneda": "Peso chileno (CLP)",
+    "actividades": ["Géiseres del Tatio", "Valle de la Luna", "Tour astronómico", "Lagunas Altiplánicas"]
+  }
+]

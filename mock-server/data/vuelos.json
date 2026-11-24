@@ -1,0 +1,25 @@
+[
+  { "id": "V101", "destinoId": 1, "aerolinea": "LATAM", "origen": "Santiago (SCL)", "fechaSalida": "2026-12-10", "fechaRegreso": "2026-12-17", "duracion": "3h 30m", "escalas": 1, "precio": 289000, "asientosDisponibles": 12 },
+  { "id": "V102", "destinoId": 1, "aerolinea": "Sky Airline", "origen": "Santiago (SCL)", "fechaSalida": "2027-01-05", "fechaRegreso": "2027-01-12", "duracion": "4h 10m", "escalas": 1, "precio": 219000, "asientosDisponibles": 0 },
+  { "id": "V103", "destinoId": 1, "aerolinea": "JetSMART", "origen": "Santiago (SCL)", "fechaSalida": "2027-02-14", "fechaRegreso": "2027-02-21", "duracion": "4h 05m", "escalas": 1, "precio": 199000, "asientosDisponibles": 25 },
+
+  { "id": "V201", "destinoId": 2, "aerolinea": "LATAM", "origen": "Santiago (SCL)", "fechaSalida": "2026-12-20", "fechaRegreso": "2027-01-03", "duracion": "8h 40m", "escalas": 1, "precio": 759000, "asientosDisponibles": 6 },
+  { "id": "V202", "destinoId": 2, "aerolinea": "Aeroméxico", "origen": "Santiago (SCL)", "fechaSalida": "2027-01-15", "fechaRegreso": "2027-01-25", "duracion": "9h 20m", "escalas": 1, "precio": 689000, "asientosDisponibles": 18 },
+  { "id": "V203", "destinoId": 2, "aerolinea": "Copa Airlines", "origen": "Santiago (SCL)", "fechaSalida": "2027-02-02", "fechaRegreso": "2027-02-12", "duracion": "10h 15m", "escalas": 1, "precio": 645000, "asientosDisponibles": 0 },
+
+  { "id": "V301", "destinoId": 3, "aerolinea": "Aerolíneas Argentinas", "origen": "Santiago (SCL)", "fechaSalida": "2026-12-05", "fechaRegreso": "2026-12-09", "duracion": "2h 05m", "escalas": 0, "precio": 149000, "asientosDisponibles": 30 },
+  { "id": "V302", "destinoId": 3, "aerolinea": "JetSMART", "origen": "Santiago (SCL)", "fechaSalida": "2027-01-08", "fechaRegreso": "2027-01-13", "duracion": "2h 10m", "escalas": 0, "precio": 99000, "asientosDisponibles": 4 },
+  { "id": "V303", "destinoId": 3, "aerolinea": "LATAM", "origen": "Santiago (SCL)", "fechaSalida": "2027-02-18", "fechaRegreso": "2027-02-23", "duracion": "2h 00m", "escalas": 0, "precio": 175000, "asientosDisponibles": 22 },
+
+  { "id": "V401", "destinoId": 4, "aerolinea": "Iberia", "origen": "Santiago (SCL)", "fechaSalida": "2027-01-10", "fechaRegreso": "2027-01-24", "duracion": "13h 05m", "escalas": 0, "precio": 1190000, "asientosDisponibles": 9 },
+  { "id": "V402", "destinoId": 4, "aerolinea": "LATAM", "origen": "Santiago (SCL)", "fechaSalida": "2027-03-01", "fechaRegreso": "2027-03-15", "duracion": "13h 15m", "escalas": 0, "precio": 1049000, "asientosDisponibles": 14 },
+  { "id": "V403", "destinoId": 4, "aerolinea": "Air Europa", "origen": "Santiago (SCL)", "fechaSalida": "2027-04-12", "fechaRegreso": "2027-04-26", "duracion": "15h 40m", "escalas": 1, "precio": 899000, "asientosDisponibles": 0 },
+
+  { "id": "V501", "destinoId": 5, "aerolinea": "LATAM", "origen": "Santiago (SCL)", "fechaSalida": "2026-12-27", "fechaRegreso": "2027-01-04", "duracion": "4h 20m", "escalas": 0, "precio": 419000, "asientosDisponibles": 3 },
+  { "id": "V502", "destinoId": 5, "aerolinea": "GOL", "origen": "Santiago (SCL)", "fechaSalida": "2027-02-10", "fechaRegreso": "2027-02-17", "duracion": "6h 35m", "escalas": 1, "precio": 329000, "asientosDisponibles": 20 },
+  { "id": "V503", "destinoId": 5, "aerolinea": "Sky Airline", "origen": "Santiago (SCL)", "fechaSalida": "2027-03-05", "fechaRegreso": "2027-03-12", "duracion": "4h 25m", "escalas": 0, "precio": 299000, "asientosDisponibles": 16 },
+
+  { "id": "V601", "destinoId": 6, "aerolinea": "Sky Airline", "origen": "Santiago (SCL)", "fechaSalida": "2026-12-12", "fechaRegreso": "2026-12-16", "duracion": "2h 10m (a Calama)", "escalas": 0, "precio": 89000, "asientosDisponibles": 27 },
+  { "id": "V602", "destinoId": 6, "aerolinea": "LATAM", "origen": "Santiago (SCL)", "fechaSalida": "2027-01-20", "fechaRegreso": "2027-01-25", "duracion": "2h 05m (a Calama)", "escalas": 0, "precio": 129000, "asientosDisponibles": 10 },
+  { "id": "V603", "destinoId": 6, "aerolinea": "JetSMART", "origen": "Santiago (SCL)", "fechaSalida": "2027-02-06", "fechaRegreso": "2027-02-10", "duracion": "2h 15m (a Calama)", "escalas": 0, "precio": 69000, "asientosDisponibles": 0 }
+]

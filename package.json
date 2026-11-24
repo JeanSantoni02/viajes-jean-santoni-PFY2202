@@ -1,0 +1,30 @@
+{
+  "name": "viajes-jean-santoni-pfy2202",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Agencia de viajes - Desarrollo Frontend II (PFY2202) - Semana 5: frontend React integrado con backend mock REST y GraphQL",
+  "type": "module",
+  "scripts": {
+    "dev": "concurrently -k -n mock,web -c magenta,cyan \"npm:mock\" \"npm:web\"",
+    "mock": "node mock-server/server.js",
+    "web": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-router-dom": "^7.6.0"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.1.0",
+    "@vitejs/plugin-react": "^4.5.0",
+    "concurrently": "^9.1.2",
+    "cors": "^2.8.5",
+    "express": "^5.1.0",
+    "graphql": "^16.11.0",
+    "graphql-yoga": "^5.13.0",
+    "tailwindcss": "^4.1.0",
+    "vite": "^6.3.0"
+  }
+}

@@ -1,0 +1,25 @@
+[
+  { "id": "H101", "destinoId": 1, "nombre": "Casa Andina Premium Cusco", "estrellas": 4, "precioPorNoche": 78000, "disponibleDesde": "2026-12-01", "disponibleHasta": "2027-03-31", "habitacionesDisponibles": 8, "servicios": ["Desayuno incluido", "Wi-Fi", "Oxígeno en habitación"] },
+  { "id": "H102", "destinoId": 1, "nombre": "Hostal Plaza de Armas", "estrellas": 2, "precioPorNoche": 29000, "disponibleDesde": "2026-12-01", "disponibleHasta": "2027-02-28", "habitacionesDisponibles": 0, "servicios": ["Wi-Fi", "Mate de coca"] },
+  { "id": "H103", "destinoId": 1, "nombre": "Belmond Palacio Nazarenas", "estrellas": 5, "precioPorNoche": 420000, "disponibleDesde": "2027-01-01", "disponibleHasta": "2027-04-30", "habitacionesDisponibles": 3, "servicios": ["Spa", "Piscina climatizada", "Restaurante gourmet"] },
+
+  { "id": "H201", "destinoId": 2, "nombre": "Hotel Riu Caribe", "estrellas": 5, "precioPorNoche": 210000, "disponibleDesde": "2026-12-15", "disponibleHasta": "2027-04-15", "habitacionesDisponibles": 15, "servicios": ["Todo incluido", "Piscina", "Acceso a la playa"] },
+  { "id": "H202", "destinoId": 2, "nombre": "Selina Cancún Laguna", "estrellas": 3, "precioPorNoche": 65000, "disponibleDesde": "2026-12-01", "disponibleHasta": "2027-03-31", "habitacionesDisponibles": 7, "servicios": ["Wi-Fi", "Cowork", "Bar"] },
+  { "id": "H203", "destinoId": 2, "nombre": "Grand Oasis Cancún", "estrellas": 4, "precioPorNoche": 145000, "disponibleDesde": "2027-01-10", "disponibleHasta": "2027-05-31", "habitacionesDisponibles": 0, "servicios": ["Todo incluido", "Gimnasio", "Club infantil"] },
+
+  { "id": "H301", "destinoId": 3, "nombre": "Alvear Palace Hotel", "estrellas": 5, "precioPorNoche": 310000, "disponibleDesde": "2026-12-01", "disponibleHasta": "2027-03-31", "habitacionesDisponibles": 4, "servicios": ["Spa", "Desayuno buffet", "Mayordomo"] },
+  { "id": "H302", "destinoId": 3, "nombre": "Palermo Soho Boutique", "estrellas": 3, "precioPorNoche": 58000, "disponibleDesde": "2026-12-01", "disponibleHasta": "2027-06-30", "habitacionesDisponibles": 10, "servicios": ["Wi-Fi", "Terraza", "Desayuno incluido"] },
+  { "id": "H303", "destinoId": 3, "nombre": "Hotel Madero", "estrellas": 4, "precioPorNoche": 125000, "disponibleDesde": "2027-01-01", "disponibleHasta": "2027-04-30", "habitacionesDisponibles": 6, "servicios": ["Piscina", "Gimnasio", "Vista al río"] },
+
+  { "id": "H401", "destinoId": 4, "nombre": "Hotel Puerta del Sol", "estrellas": 3, "precioPorNoche": 95000, "disponibleDesde": "2027-01-01", "disponibleHasta": "2027-06-30", "habitacionesDisponibles": 12, "servicios": ["Wi-Fi", "Ubicación céntrica"] },
+  { "id": "H402", "destinoId": 4, "nombre": "Only You Boutique Madrid", "estrellas": 4, "precioPorNoche": 185000, "disponibleDesde": "2027-01-01", "disponibleHasta": "2027-05-31", "habitacionesDisponibles": 0, "servicios": ["Desayuno incluido", "Bar", "Gimnasio"] },
+  { "id": "H403", "destinoId": 4, "nombre": "Four Seasons Madrid", "estrellas": 5, "precioPorNoche": 590000, "disponibleDesde": "2027-02-01", "disponibleHasta": "2027-06-30", "habitacionesDisponibles": 2, "servicios": ["Spa", "Piscina en azotea", "Restaurante Michelin"] },
+
+  { "id": "H501", "destinoId": 5, "nombre": "Copacabana Palace", "estrellas": 5, "precioPorNoche": 480000, "disponibleDesde": "2026-12-20", "disponibleHasta": "2027-04-30", "habitacionesDisponibles": 5, "servicios": ["Piscina", "Frente a la playa", "Spa"] },
+  { "id": "H502", "destinoId": 5, "nombre": "Ipanema Inn", "estrellas": 3, "precioPorNoche": 82000, "disponibleDesde": "2026-12-01", "disponibleHasta": "2027-03-31", "habitacionesDisponibles": 9, "servicios": ["Wi-Fi", "Desayuno incluido", "A 1 cuadra de la playa"] },
+  { "id": "H503", "destinoId": 5, "nombre": "Santa Teresa Hotel", "estrellas": 4, "precioPorNoche": 230000, "disponibleDesde": "2027-01-15", "disponibleHasta": "2027-05-15", "habitacionesDisponibles": 0, "servicios": ["Piscina", "Bar", "Vista a la ciudad"] },
+
+  { "id": "H601", "destinoId": 6, "nombre": "Hotel Altiplánico", "estrellas": 4, "precioPorNoche": 165000, "disponibleDesde": "2026-12-01", "disponibleHasta": "2027-03-31", "habitacionesDisponibles": 6, "servicios": ["Piscina", "Desayuno incluido", "Tours"] },
+  { "id": "H602", "destinoId": 6, "nombre": "Hostal Laskar", "estrellas": 2, "precioPorNoche": 38000, "disponibleDesde": "2026-12-01", "disponibleHasta": "2027-06-30", "habitacionesDisponibles": 11, "servicios": ["Wi-Fi", "Cocina compartida"] },
+  { "id": "H603", "destinoId": 6, "nombre": "Tierra Atacama Hotel & Spa", "estrellas": 5, "precioPorNoche": 520000, "disponibleDesde": "2027-01-01", "disponibleHasta": "2027-04-30", "habitacionesDisponibles": 2, "servicios": ["Todo incluido", "Spa", "Excursiones guiadas"] }
+]
